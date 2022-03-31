@@ -8,7 +8,7 @@ function Main() {
   return (
     <div className="poster">
       <div className="hero-container">
-        <img id="preview" src={bg} width="100%" height="90%"></img>
+        <img id="preview" alt="id" src={bg} width="100%" height="90%"></img>
 
         <div className="hero-btns">
           <Button
